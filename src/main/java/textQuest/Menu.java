@@ -1,10 +1,10 @@
-package com.soroko.project.textQuest;
+package textQuest;
 
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-import static com.soroko.project.textQuest.Constants.*;
+import static textQuest.Constants.*;
 
 public class Menu {
     private boolean gameStarted;

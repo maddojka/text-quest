@@ -1,10 +1,10 @@
-package com.soroko.project.textQuest;
+package textQuest;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-import static com.soroko.project.textQuest.Constants.*;
+import static textQuest.Constants.*;
 
 public class GamePlay {
     private Map<String, Command> menuCommands = new HashMap<>();

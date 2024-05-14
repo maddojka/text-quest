@@ -1,4 +1,4 @@
-package com.soroko.project.textQuest;
+package textQuest;
 
 /**
  * Quest logic goes here.
@@ -9,7 +9,7 @@ package com.soroko.project.textQuest;
 
 import java.util.Scanner;
 
-import static com.soroko.project.textQuest.Constants.*;
+import static textQuest.Constants.*;
 
 public class Quest {
     public static void main(String[] args) {

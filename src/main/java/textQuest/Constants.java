@@ -1,4 +1,4 @@
-package com.soroko.project.textQuest;
+package textQuest;
 
 public class Constants {
     public static final String START_GAME = "Начать игру";

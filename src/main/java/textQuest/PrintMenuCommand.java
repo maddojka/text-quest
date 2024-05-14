@@ -1,4 +1,4 @@
-package com.soroko.project.textQuest;
+package textQuest;
 
 public class PrintMenuCommand extends Command {
     public PrintMenuCommand(String code) {

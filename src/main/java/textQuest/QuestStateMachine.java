@@ -1,4 +1,4 @@
-package com.soroko.project.textQuest;
+package textQuest;
 
 import java.io.IOException;
 import java.nio.file.Files;

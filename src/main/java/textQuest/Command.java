@@ -1,4 +1,4 @@
-package com.soroko.project.textQuest;
+package textQuest;
 
 
 abstract public class Command {
